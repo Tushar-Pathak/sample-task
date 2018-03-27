@@ -1,9 +1,9 @@
 # A Simple HTML Website.
 
-##Usage
+## Usage
 
 Simply clone it in your system and open **index.html**.Make Sure you have an active internet connection because this website uses some jquery and other cdn.
 
-###Caution
+### Caution
 
-Please open index.html with a **live server** instead of typial **'file://'** protocol because some features may not work in **'file://'** protocol.Use atom live server for example.  
+Please open index.html with a **live server** instead of typical **'file://'** protocol because some features may not work in **'file://'** protocol.Use atom live server for example.  
